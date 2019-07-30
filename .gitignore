@@ -1,9 +1,0 @@
-# Terraform files
-terraform.tfstate
-terraform.tfstate.backup
-
-# Others
-*~
-*.swp
-*.DS_Store
-
